@@ -257,47 +257,6 @@ input:hover {
     color: #000;
     background-color: #f1c40f;
 }
-/* Responsive Design
-@media screen and (max-width: 768px) {
-    .header {
-        flex-direction: column;
-        text-align: center;
-    }
-    .navbar {
-        flex-direction: column;
-        align-items: center;
-    }
-    .navbar a {
-        margin: 10px 0;
-    }
-    .login-buttons {
-        margin-top: 15px;
-    }
-    .hero-section, .services-section {
-        flex-direction: column;
-    }
-    .service-card, .testimonial-card {
-        width: 100%;
-    }
-    .footer-container {
-        flex-direction: column;
-    }
-}
-@media screen and (max-width: 480px) {
-    body {
-        padding-top: 150px;
-    }
-    .header {
-        padding: 10px;
-    }
-    .logo img {
-        max-width: 40px;
-    }
-    .navbar a {
-        font-size: 14px;
-    }
-} */
-
 .product_container .product{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
